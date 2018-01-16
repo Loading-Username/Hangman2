@@ -1,0 +1,33 @@
+NFL Teams
+New England Patriots
+Dallas Cowboys
+Philadelphia Eagles
+Oakland Raiders
+New York Giants
+Seattle Seahawks
+Pittsburgh Steelers
+Denver Broncos
+Green Bay Packers
+San Francisco Forty Niners
+Minnesota Vikings
+Chicago Bears
+Kansas City Chiefs
+Los Angeles Rams
+Carolina Panthers
+Washington Redskins
+Miami Dolphins
+Cleveland Browns
+Atlanta Falcons
+New York Jets
+Arizona Cardinals
+Baltimore Ravens
+Houston Texans
+Detroit Lions
+Los Angeles Chargers
+New Orleans Saints
+Buffalo Bills
+Jacksonville Jaguars
+Cincinnati Bengals
+Indianapolis Colts
+Tampa Bay Buccaneers
+Tennessee Titans

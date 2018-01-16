@@ -1,0 +1,52 @@
+Currencies
+US Dollar
+Euro
+Pound Sterling
+Franc
+Indian Rupee
+Japanese Yen
+Canadian Dollar
+Renminbi
+Austrailian Dollar
+Russian Ruble
+South African Rand
+Dinar
+Norwegian Krone
+Swiss Franc
+Israeli New Shekel
+Czech Koruna
+Singapore Dollar
+New Zealand Dollar
+Hungarian Forint
+Mexican Peso
+Polish Zloty
+Turkish Lira
+Swedish Krona
+Danish Krone
+Brazilian Real
+Hong Kong Dollar
+Thai Baht
+South Korean Won
+Malaysian Ringgit
+Chilean Peso
+Bulgarian Lev
+United Arab Emirates Dirham
+Saudi Riyal
+Argentine Peso
+Sol
+Indonesian Rupiah
+Philippine Peso
+Omani Rial
+Vietnamese Dong
+Romanian Leu
+Nigerian Naira
+Colombian Peso
+Guatemalan Quetzal
+Croatian Kuna
+Qatari Riyal
+Paraguayan Guarani
+Ghanaian Cedi
+Venezuelan Bolivar
+New Taiwan Dollar
+Eastern Caribbean Dollar
+Pakistani Rupee
